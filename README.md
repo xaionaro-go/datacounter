@@ -2,7 +2,7 @@
 
 Golang counters for readers/writers.
 
-[![Build Status](https://travis-ci.org/miolini/datacounter.svg)](https://travis-ci.org/miolini/datacounter) [![GoDoc](https://godoc.org/github.com/miolini/datacounter?status.svg)](http://godoc.org/github.com/miolini/datacounter)
+[![Build Status](https://travis-ci.org/xaionaro-go/datacounter.svg)](https://travis-ci.org/xaionaro-go/datacounter) [![GoDoc](https://godoc.org/github.com/xaionaro-go/datacounter?status.svg)](http://godoc.org/github.com/xaionaro-go/datacounter)
 
 ## Examples
 
